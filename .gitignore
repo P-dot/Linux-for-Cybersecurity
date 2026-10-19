@@ -1,0 +1,22 @@
+# Local tooling and secrets
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+authorized_keys
+*.gpg
+*.sql
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+# Lab transient files
+tmp/
+scratch/
