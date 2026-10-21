@@ -11,8 +11,10 @@ A structured, evidence-driven collection of reproducible experiments based on th
 | Lab | Book coverage | Focus | Status |
 | --- | --- | --- | --- |
 | [Lab 01 — Linux Foundations & Command-Line Investigation](labs/lab-01-linux-fundamentals-command-line/README.md) | Chapter 1: Distributions and Key Components; Chapter 2: Working on the Command Line | Linux identity, files, shells, search, BRE/ERE, `grep`, `sed`, archive basics | **Completed / evidence recorded** |
-| Lab 02 — Getting Help | Chapter 3: Getting Help | `man`, `info`, help systems and documentation discovery | Planned |
-| Lab 03 — Editing Files | Chapter 4: Editing Files | Editors, safe changes and validation | Planned |
+| [Lab 02 — Archiving and Compression: tar, gzip & gunzip](labs/lab-02-archiving-gzip-gunzip/README.md) | Chapter 2: Compression Commands | Archiving, comparison, compression, recovery and SHA-256 validation | **Completed / 13 original screenshots** |
+| Lab 03 — bzip2 and Remaining Compression Tools | Chapter 2: Compression Commands | Remaining compression utilities in the textbook sequence | Planned |
+| Lab 04 — Getting Help | Chapter 3: Getting Help | `man`, `info`, help systems and documentation discovery | Planned |
+| Lab 05 — Editing Files | Chapter 4: Editing Files | Editors, safe changes and validation | Planned |
 
 Further labs will follow the textbook's order, without inventing results for exercises not yet performed.
 
